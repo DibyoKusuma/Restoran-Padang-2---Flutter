@@ -1,6 +1,6 @@
 # Restoran-Padang - Flutter 2
 ![Profil](https://user-images.githubusercontent.com/93851159/159821154-75ef3b57-e71c-4441-9c23-a6c226e9d974.png)
-![After Login](https://user-images.githubusercontent.com/93851159/159821193-b6424340-428a-46c2-946c-80f738c6136c.png)
-![Galery Makanan](https://user-images.githubusercontent.com/93851159/159821218-69221136-d0a1-43cc-b6d9-b60d271b1542.png)
-![Deatail Galeri](https://user-images.githubusercontent.com/93851159/159821231-c26d09af-37d5-46e6-90b1-632bd688c268.png)
-![Dropdown Menu](https://user-images.githubusercontent.com/93851159/159821257-2b66e95f-4a1e-4d69-b699-cdab1ab8d13c.png)
+![After Login](https://user-images.githubusercontent.com/93851159/159821673-ba1e45cc-4666-4841-8445-a1befb5cbbab.png)
+![Galery Makanan](https://user-images.githubusercontent.com/93851159/159821691-c757465d-1ff6-4a71-8f08-eb0ee61b8c74.png)
+![Deatail Galeri](https://user-images.githubusercontent.com/93851159/159821703-b7fd23f0-014b-4d78-838c-d8a8524ce7f8.png)
+![Dropdown Menu](https://user-images.githubusercontent.com/93851159/159821717-8152e540-24d5-448b-ad1b-b13c779965ef.png)
